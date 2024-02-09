@@ -60,3 +60,6 @@ force-app/main/default/lwc/.eslintrc.json
 manifest/package.xml
 scripts/apex/hello.apex
 scripts/soql/account.soql
+force-app/main/default/classes/HttpCalloutControll.cls-meta.xml
+force-app/main/default/aura/SampleComponentApp/SampleComponentApp.app-meta.xml
+force-app/main/default/aura/SampleComponent/SampleComponent.cmp-meta.xml
